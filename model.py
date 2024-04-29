@@ -28,6 +28,6 @@ ra_pipe.fit(x_train,y_train)
 
 ra_y_pred = ra_pipe.predict(x_test)
 
-pickle.dump(ra_pipe,open('second_pipe.pkl','wb'))
+pickle.dump(ra_pipe,open('second_pipeline.pkl','wb'))
 
 print(accuracy_score(y_test,ra_y_pred))
