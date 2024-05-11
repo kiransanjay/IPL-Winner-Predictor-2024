@@ -6,5 +6,25 @@ This is a web application made using Flask which will predict the win probabilit
 
 ## Instructions 
 
+
+## Application Setup
+Step 1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/kiransanjay/IPL-Winner-Predictor-2024.git
+    ```
+
+Step 2. Run the Flask app:
+
+    ```bash
+    python application.py
+    ```
+
+Step 3. Open the browser and head to [http://localhost:5000](http://localhost:5000) This will redirect to the CrikR IPL Winner Predictor Application.
+
+## Usage Instructions 
 * Predictions can be made by entering required variables such as playing teams, target, balls left, wickets lost and venue.
-* After entering required variables, click on 'predict' button to make the  
+* After entering required variables, click on 'predict' button to get the prediction results.
+
+## App Screenshots
+<img width="948" alt="CrikR Prediction Tool" src="https://github.com/kiransanjay/IPL-Winner-Predictor-2024/static/homepage">
