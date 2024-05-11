@@ -16,12 +16,12 @@ def predict():
         selected_city = request.form['selected_city']
         target = int(request.form['target'])
         score = int(request.form['score'])
-        balls_left = int(request.form['balls_left'])  # Update this line
+        balls_left = int(request.form['balls_left']) 
         wickets = int(request.form['wickets'])
 
         runs_left = target - score
         wickets_remaining = 10 - wickets
-        overs_completed = (120 - balls_left) / 6  # Calculate overs_completed from balls_left
+        overs_completed = (120 - balls_left) / 6  # This step is to calculate the number of balls left in the innings
         crr = score / overs_completed
         rrr = runs_left / (balls_left / 6)
 
