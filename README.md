@@ -31,4 +31,4 @@ Step 3. Open the browser and head to [http://localhost:5000](http://localhost:50
 
 
 ### App Screenshots
-<img width="948" alt="CrikR Prediction Tool" src="https://github.com/kiransanjay/IPL-Winner-Predictor-2024/static/homepage.png">
+<img width="948" alt="CrikR Prediction Tool" src="https://github.com/kiransanjay/IPL-Winner-Predictor-2024/blob/main/static/homepage.png">
