@@ -10,9 +10,9 @@ This is a web application made using Flask which will predict the win probabilit
 ## Application Setup
 Step 1. Clone the repository:
 
-    ```
+    
     git clone https://github.com/kiransanjay/IPL-Winner-Predictor-2024.git
-    ```
+    
 
 Step 2. Run the Flask app:
 
