@@ -16,9 +16,9 @@ Step 1. Clone the repository:
 
 Step 2. Run the Flask app:
 
-    ```
+    
     python application.py
-    ```
+    
 
 Step 3. Open the browser and head to [http://localhost:5000](http://localhost:5000) This will redirect to the CrikR IPL Winner Predictor Application.
 
